@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+  </head>
+  <body> <h1>Nutrition and Health</h1>
+    <a id="cal" href="Cal.html" alt="calories">Calorie General overview</a> 
+    <a  href="fastfood.html" alt="why fast food is bad"> Fastfood </a> <a href="food.html" alt="General food groups">General Food Types</a>
+    <p>There are many aspects that play into having good health. the most important of them is nutirition. If you control your eating habits and take your calorie intake into consideration, you can keep your well being in check. learn more about calories <a id="cal" href="Cal.html" alt="calorie info">Here.</a> </p>
+    <br>
+    <p>The diferent food groups are important to pay attention to. In order to maintain your health, you need to have a good balance of differnt protein, vitamins, and other such components. Different types of food control your intake. learn more about the food groups <a href="food.html" alt="different food groups"> Here. </a></p> <br>
+    <p>Healthy eating is detrimental to your health. It directly impacts your health, whether you like it or not. Fast food, though it may look and taste good, is really bad for you. it can have many effect on you, and is overall not very good. Learn more<a  href="fastfood.html" alt="why fast food is bad"> Here. </a></p>
+    <link rel="stylesheet" href="style.css">
+
+
+    
+  </body>
+</html>
