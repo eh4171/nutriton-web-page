@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<head>
+  <h2><p>Foods, and there benefits.</p></h2>
+</head>
+<body>
+  <li><p><h3>Vegetables</h3><p/></li>
+  <p> Parents always reccomend you to consume your vegetables. they were right! vegetables provide you with potassium, dietary fiber, folate, vitamin A, and vitamin C. these are valuable resources that help maintain your bodly functions.</p>
+
+  <li><p><h3>Meats</h3><p/></li>
+  <p> Meats are majority people favorite, some choose for veganism over it. Meat gives your body iodine, iron, zinc, vitamins (especially B12) and essential fatty acids.</p>
+
+  <p> those are the main two mainclasses for healthy diet, allowing for subclasses to form. These classes are deviations of vegetables and meats</p>
+
+  <li><p><h3>Dairy</h3><p/></li>
+  <p> Dairy provides you calcium allowing for your bones to become much stronger. Dairy is most commonly farmed from livestock like cows.</p>
+
+  <li><p><h3> grain</h3><p/></li>
+  <p>grain is the cousin of vegetables giving birth to world wide common product, which is bread. This provides you iodine, iron, zinc, vitamins (especially B12) and essential fatty acids.</p>
+
+  <a href=fastfood.html>"why fast food is bad for you"
+    <link rel="stylesheet" href="style.css">
+
+
