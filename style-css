@@ -1,0 +1,36 @@
+h1 {
+  color: orangered;
+  text-decoration: underline;
+  text-decoration-color: red;
+  text-shadow: 5px 2px rgb(124 , 123 ,159);
+}
+
+body {
+  color: darkorange;
+  text-align: right;
+  background-color: rosybrown;
+  
+}
+
+
+
+
+h2 {
+  font-family: cursive;
+  color:coral;
+  text-decoration-line: underline;
+  text-decoration-color: steelblue;
+}
+
+p{
+  color: firebrick
+  
+}
+a { width: 300px;
+  border-style: solid;
+  border-color:grey;
+  border-radius: 40px;
+  background-color: orangered;
+  float:r
+}
+
