@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+
+<html>
+  <head>
+    <h1>Nutrition and health</h1>
+    
+    
+    
+  </head>
+  <body>
+   
+    <a href=fastfood.html>"why fast food is bad for you"
+      
+      <a href="food-benefits.html">food benefits
+      <link rel="stylesheet" href="style.css">
+
+        <h1>Everything You Should Know About Calories</h1>
+
+        <h3><p class="sub"> What are Calories?</p></h3>
+        <p class="para">Calories are a unit of energy that Your body uses calories to get the energy it needs to properly function. The calorie was originally defined as the amount of heat required at a pressure of 1 standard atmosphere to raise the temperature of 1 gram of water 1° Celsius. Since 1925 this calorie has been defined in terms of the joule, the definition since 1948 being that one calorie is equal to approximately 4.2 joules.</p> 
+
+        <h3><p class="sub">How Do I Burn Calories?</p></h3>
+
+        <p class="para">Calories are burnt doing basic daily things(such as digesting food). According to Cleveland Clinic Health Essentials,1,300 to 2,000 calories are burnt daily just existing. This means that you naturally burn the amount of calories you need. According to Vox, only 5 to 10 percent of calories are burned.</p>
+
+        <h3><p class="sub">Whats a Calorie Deficit?</p></h3>
+        <p class="para">A calorie deficit is exactly as it sounds, it's when your body doesn't have enough calories. Achieving a calorie deficit has many benefits such as increased weight loss. Before you go into a calorie deficit consult a doctor to see how many calories you should consume and for how long.</p>
+
+        <h3><p class="sub">How Do I Achieve a Calorie Deficit?</p></h3>
+        <p class="para">There are a couple different methods to achieve a calorie deficit such as dieting and fasting. I personally suggest dieting. During a diet you can eat anything as long as it's low in calories. Fasting is when you don't eat at all for a set period of time(normally a week), it is highly recommended that you consult a doctor before fasting. While fasting make sure you are keeping your body hydrated.</p>
+
+ 
+
+    
+    <h2>
+  </body>
+</html>
